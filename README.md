@@ -14,7 +14,7 @@ This project demonstrates a way of communication PySerial code on a host machine
 
 
 ## Extra Instruction for N810
-0. Arduino UNO r3 does not work - I am using Seeduino v3.
+0. Arduino UNO r3 is not recognized by N810 - I am using Seeduino v3.
 1. Flash N810 with a new kernel image:
 ```
 ./flasher-xyz --kernel zImage --flash --reboot
