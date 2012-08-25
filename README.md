@@ -23,3 +23,8 @@ This project demonstrates a way of communication PySerial code on a host machine
 3. Connect your arduino to N810 via USB, enable 'USB UTG Host Mode' and make sure that '/dev/ttyUSB0' does exist.
 4. wget PySerial from http://sourceforge.net/projects/pyserial/files/ and copy 'serial' folder to '/usr/lib/python2.5/site-packages/'
 5. Follow instruction for PC above.
+
+### Copy-Paste Commands for N810
+```
+apt-get install python2.5-runtime
+```
