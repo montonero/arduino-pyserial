@@ -11,3 +11,4 @@ This project demonstrates a way of communication PySerial code on a host machine
 1. Connect Arduino to a host PC with a USB cable.
 2. Upload Arduino sketch (sketch/physical_pixel.ino) to it.
 3. Run PySerial program on a host PC (code/arduino_led.py) in a console (this way you shall see debug output).
+4. Click a square in the centre of the window to change LED's status on Arduino.
